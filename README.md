@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Lillian
 
-- 😄 Pronouns: She/Her
 - 🔭 I work on solving open-ended business problems with various machine learning models and algorithms.
 - 👯 I’m looking to contribute to more open-source AI projects and research work.
 - 💬 Ask me about machine learning pitfalls, model evaluation and fairness, recommender systems, and experiment.
